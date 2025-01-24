@@ -1,3 +1,4 @@
 # AISTUDY uijin kim's repo
 
 1. KAN: Kolmogorow-arnold network
+2. FGSM: EXPLAINING AND HARNESSINGADVERSARIAL EXAMPLES
